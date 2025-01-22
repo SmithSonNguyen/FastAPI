@@ -1,0 +1,6 @@
+# Bỏ qua thư mục node_modules
+__pycache__/
+
+# Bỏ qua file .env và .pyc
+.env
+.pyc
